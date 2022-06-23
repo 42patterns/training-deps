@@ -19,7 +19,7 @@
     <version.json>20160810</version.json>
     <version.logback>1.2.3</version.logback>
     <version.slf4j>1.7.5</version.slf4j>
-    <version.wildfly-dist>10.1.0.Final</version.wildfly-dist>
+    <version.wildfly-dist>21.0.1.Final</version.wildfly-dist>
     <version.spring-cloud-dependencies>Camden.SR6</version.spring-cloud-dependencies>
     <version.resteasy>3.0.16.Final</version.resteasy>
     <version.infinispan>8.1.0.Final</version.infinispan>
